@@ -3,7 +3,7 @@
 **Dew — Habit Tracker**
 
 **Effective Date:** December 30, 2025
-**Last Updated:** December 30, 2025
+**Last Updated:** January 3, 2026
 
 ---
 
@@ -91,9 +91,19 @@ All your habit data is stored locally on your device using secure, encrypted sto
 
 If you have iCloud Backup enabled on your device, your Dew data may be included in your device backup. This is controlled by your iOS settings, not by us.
 
-### No Cloud Sync
+### iCloud Sync (Dew Pro)
 
-Dew does not sync data to any cloud service. Your data exists only on the device where you created it.
+Dew Pro subscribers can optionally enable iCloud sync to keep their habit data synchronized across multiple Apple devices. When enabled:
+
+- Your habit data is stored in your **personal iCloud account** using Apple's CloudKit service
+- Data is synced only between devices signed into **your** Apple ID
+- **We cannot access your iCloud data** — it is encrypted and stored in your private iCloud container
+- You can disable iCloud sync at any time in Settings
+- Disabling sync does not delete data from iCloud; manage iCloud storage through iOS Settings
+
+iCloud sync is **opt-in** and requires an active Dew Pro subscription. Free users' data remains local-only.
+
+Apple's iCloud privacy policy applies: https://www.apple.com/legal/privacy/
 
 ---
 
@@ -208,7 +218,7 @@ We will respond to privacy inquiries within 30 days.
 |----------|--------|
 | Do you collect my data? | No |
 | Do you sell my data? | No (we don't have any) |
-| Where is my data stored? | Only on your device |
+| Where is my data stored? | On your device (and your iCloud if you enable sync) |
 | Do you track me? | No |
 | Do I need an account? | No |
 | Can I delete my data? | Yes, delete the app |

@@ -3,7 +3,7 @@
 **Dew — Habit Tracker**
 
 **Effective Date:** December 30, 2025
-**Last Updated:** December 30, 2025
+**Last Updated:** January 3, 2026
 
 ---
 
@@ -23,6 +23,7 @@ Dew is a mobile application that helps you track daily habits and practices. The
 - Progress visualization
 - Completion history
 - Optional premium features through in-app purchase
+- iCloud sync across devices (Dew Pro)
 
 The app is designed for personal, non-commercial use.
 
@@ -154,9 +155,10 @@ We are not responsible for any loss of data due to:
 - App deletion
 - iOS updates or changes
 - User error
+- iCloud sync conflicts or failures
 - Any other cause
 
-**You are responsible for backing up your device.**
+**You are responsible for backing up your device.** Dew Pro subscribers can use iCloud sync to keep data across devices, but this is not a guaranteed backup solution.
 
 ---
 
