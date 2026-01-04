@@ -2,5 +2,8 @@
 
 A mindful habit tracking app inspired by Taoist philosophy.
 
-- [Privacy Policy](privacy.md)
-- [Terms of Service](terms.md)
+Practice, not perfection.
+
+- [Support](support)
+- [Privacy Policy](privacy)
+- [Terms of Service](terms)
