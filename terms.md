@@ -3,7 +3,7 @@
 **Dew — Habit Tracker**
 
 **Effective Date:** December 30, 2025
-**Last Updated:** January 3, 2026
+**Last Updated:** March 8, 2026
 
 ---
 
@@ -23,7 +23,7 @@ Dew is a mobile application that helps you track daily habits and practices. The
 - Progress visualization
 - Completion history
 - Optional premium features through in-app purchase
-- iCloud sync across devices (Dew Pro)
+- iCloud sync across devices (Dew Pro, iOS only)
 
 The app is designed for personal, non-commercial use.
 
@@ -91,22 +91,27 @@ Prices may vary by region and are subject to change.
 
 ### Payment Processing
 
-All purchases are processed through the Apple App Store. By making a purchase, you agree to Apple's terms and conditions.
+All purchases are processed through the Apple App Store (iOS) or Google Play Store (Android). By making a purchase, you agree to the terms and conditions of the respective platform.
 
-We do not directly handle payment information. All billing inquiries should be directed to Apple.
+We do not directly handle payment information. All billing inquiries should be directed to Apple or Google, depending on your platform.
 
 ### Subscription Terms
 
 **Auto-Renewal:** Monthly and annual subscriptions automatically renew unless canceled at least 24 hours before the end of the current period.
 
-**Cancellation:** You may cancel your subscription at any time through your Apple ID account settings. Cancellation takes effect at the end of the current billing period.
+**Cancellation:** You may cancel your subscription at any time through your account settings on the platform where you purchased:
+- **iOS:** Apple ID account settings
+- **Android:** Google Play subscription settings
+
+Cancellation takes effect at the end of the current billing period.
 
 **No Partial Refunds:** If you cancel mid-period, you retain access until the end of that period but will not receive a partial refund.
 
 ### Refunds
 
-Refund requests must be submitted to Apple, as they handle all billing:
-https://support.apple.com/en-us/HT204084
+Refund requests must be submitted to the platform where the purchase was made, as they handle all billing:
+- **Apple:** https://support.apple.com/en-us/HT204084
+- **Google Play:** https://support.google.com/googleplay/answer/2479637
 
 We cannot process refunds directly.
 
@@ -153,7 +158,7 @@ We are not responsible for any loss of data due to:
 
 - Device failure or loss
 - App deletion
-- iOS updates or changes
+- Operating system updates or changes
 - User error
 - iCloud sync conflicts or failures
 - Any other cause
@@ -295,6 +300,28 @@ If you downloaded Dew from the Apple App Store, the following additional terms a
 6. **Intellectual Property:** In the event of any third-party intellectual property claim, Eric Tamez, not Apple, is responsible for investigation, defense, settlement, and discharge.
 
 7. **Third-Party Beneficiary:** Apple and its subsidiaries are third-party beneficiaries of these Terms. Upon your acceptance, Apple has the right to enforce these Terms against you.
+
+8. **Developer Contact:** For questions or complaints, contact Eric Tamez at dewhabbitapp@gmail.com.
+
+---
+
+## Google Play-Specific Terms
+
+If you downloaded Dew from the Google Play Store, the following additional terms apply:
+
+1. **Acknowledgment:** You acknowledge that these Terms are between you and Eric Tamez only, not with Google. Google is not responsible for the app or its content.
+
+2. **Scope of License:** The license granted to you is limited to a non-transferable license to use the app on Android devices you own or control, as permitted by the Google Play Terms of Service.
+
+3. **Maintenance and Support:** Eric Tamez is solely responsible for providing maintenance and support for the app. Google has no obligation to provide any maintenance or support.
+
+4. **Warranty:** Google has no warranty obligation. Any claims related to the app's failure to conform to any warranty are Eric Tamez's responsibility.
+
+5. **Product Claims:** Eric Tamez, not Google, is responsible for addressing any claims relating to the app, including product liability claims, regulatory compliance claims, and consumer protection claims.
+
+6. **Intellectual Property:** In the event of any third-party intellectual property claim, Eric Tamez, not Google, is responsible for investigation, defense, settlement, and discharge.
+
+7. **Google Play Refunds:** Refund policies for purchases made through Google Play are governed by Google's refund policy. Requests should be submitted through Google Play.
 
 8. **Developer Contact:** For questions or complaints, contact Eric Tamez at dewhabbitapp@gmail.com.
 

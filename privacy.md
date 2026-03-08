@@ -3,7 +3,7 @@
 **Dew — Habit Tracker**
 
 **Effective Date:** December 30, 2025
-**Last Updated:** January 3, 2026
+**Last Updated:** March 8, 2026
 
 ---
 
@@ -26,7 +26,7 @@ The following data is stored **locally on your device only** and is never transm
 - App preferences (theme, notification settings, etc.)
 - Any notes you add to habits
 
-**We cannot access this data.** It exists only on your device and in your iCloud backup (if you have iCloud enabled on your device).
+**We cannot access this data.** It exists only on your device and in your device backups (such as iCloud on iOS or Google backups on Android, if enabled).
 
 ### Information We Do NOT Collect
 
@@ -46,6 +46,7 @@ We do not collect, store, or transmit:
 If you purchase Dew Pro, the transaction is processed by:
 
 - **Apple App Store** (for iOS purchases)
+- **Google Play Store** (for Android purchases)
 - **RevenueCat** (our subscription management service)
 
 These services may collect:
@@ -61,15 +62,16 @@ We receive only:
 
 We do **not** receive your name, email, payment details, or Apple ID.
 
-#### Apple App Store
+#### App Stores
 
-If you download the app from the Apple App Store, Apple may collect data according to their privacy policy. This is outside our control.
+If you download the app from the Apple App Store or Google Play Store, the respective platform may collect data according to their own privacy policies. This is outside our control.
 
-Apple's privacy policy: https://www.apple.com/legal/privacy/
+- Apple's privacy policy: https://www.apple.com/legal/privacy/
+- Google's privacy policy: https://policies.google.com/privacy
 
 #### Crash Reporting (Optional)
 
-If you opt in to share crash reports with Apple, anonymized crash data may be shared with us through App Store Connect. This data contains no personal information — only technical details about app crashes.
+If you opt in to share crash reports through your device's settings, anonymized crash data may be shared with us through App Store Connect (iOS) or Google Play Console (Android). This data contains no personal information — only technical details about app crashes.
 
 ---
 
@@ -85,15 +87,15 @@ The app functions entirely offline. Your data stays on your device.
 
 ### Local Storage
 
-All your habit data is stored locally on your device using secure, encrypted storage provided by iOS.
+All your habit data is stored locally on your device using secure storage provided by the operating system.
 
 ### iCloud Backup
 
-If you have iCloud Backup enabled on your device, your Dew data may be included in your device backup. This is controlled by your iOS settings, not by us.
+Your Dew data may be included in your device backups (iCloud on iOS, Google backups on Android). This is controlled by your device settings, not by us.
 
-### iCloud Sync (Dew Pro)
+### iCloud Sync (Dew Pro, iOS only)
 
-Dew Pro subscribers can optionally enable iCloud sync to keep their habit data synchronized across multiple Apple devices. When enabled:
+Dew Pro subscribers on iOS can optionally enable iCloud sync to keep their habit data synchronized across multiple Apple devices. When enabled:
 
 - Your habit data is stored in your **personal iCloud account** using Apple's CloudKit service
 - Data is synced only between devices signed into **your** Apple ID
